@@ -1,0 +1,25 @@
+body{
+    color: #000000;
+    background-color:rgb(12, 113, 133);
+    width: 60em;
+    margin: 0 auto;
+}
+
+#caja1{
+    float: left;
+    padding: 0em;
+    margin: 0em;
+}
+h2{
+    color:whitesmoke;
+    text-shadow: 1px 1px #fff;
+}
+
+h1{
+    text-align: center;
+}
+
+#caja1{
+    width: 16em;
+    height: 50em;
+}
